@@ -1,0 +1,3 @@
+Chicago is one of the key cities in the United States, and understanding the crime patterns across the city aid not only the city police department but also the city residents. Different crimes can be analyzed using various temporal and geographical visualizations in the project.
+
+I have used PostgreSQL to manage the records database for various filters. D3 JavaScript library is render the visualizations in the HTML.
